@@ -1,0 +1,22 @@
+Aditi Sharma
+aditi.sharma@example.com | +91 98765 43210
+
+SUMMARY
+Backend engineer with 4 years of experience building scalable APIs.
+
+EXPERIENCE
+Software Engineer, Acme Corp (2021 - Present)
+- Built REST APIs using Python and FastAPI
+- Deployed services with Docker on AWS
+- Worked with PostgreSQL and Redis
+- Set up CI/CD pipelines with GitHub Actions
+
+Junior Developer, StartUpX (2019 - 2021)
+- Built internal tools in Python and Flask
+- Wrote unit and integration tests
+
+EDUCATION
+B.Tech in Computer Science, VIT-AP University
+
+SKILLS
+Python, FastAPI, Flask, Docker, AWS, PostgreSQL, Redis, Git, REST API, CI/CD

@@ -1,0 +1,15 @@
+Sneha Iyer
+sneha.iyer@example.com
+
+SUMMARY
+Recent graduate interested in data analysis roles.
+
+EDUCATION
+B.Sc in Statistics, Pune University (2022 - 2025)
+
+PROJECTS
+- Built dashboards in Excel and Power BI for a college project
+- Basic SQL queries for a coursework assignment
+
+SKILLS
+Excel, Power BI, SQL, Communication

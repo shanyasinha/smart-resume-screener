@@ -1,0 +1,17 @@
+Rahul Mehta
+rahul.mehta@example.com | 9123456780
+
+SUMMARY
+Frontend-leaning full stack developer, 2 years experience.
+
+EXPERIENCE
+Software Developer, WebWorks (2022 - Present)
+- Built UIs using React and Tailwind
+- Some backend work with Node.js and Express
+- Basic exposure to MongoDB
+
+EDUCATION
+B.Sc in Information Technology, Mumbai University
+
+SKILLS
+JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, Git

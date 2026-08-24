@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    @apply bg-ink-950 text-paper-100 font-body antialiased;
+  }
+  h1, h2, h3, h4 {
+    @apply font-display;
+  }
+  ::selection {
+    @apply bg-amber/30 text-paper-100;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-ink-900 border border-ink-700 rounded-lg;
+  }
+  .chip {
+    @apply inline-flex items-center px-2.5 py-1 rounded-full text-xs font-mono border;
+  }
+  .chip-matched {
+    @apply chip bg-mint/10 border-mint/30 text-mint-light;
+  }
+  .chip-missing {
+    @apply chip bg-rose/10 border-rose/30 text-rose-light;
+  }
+  .chip-neutral {
+    @apply chip bg-ink-700/60 border-ink-600 text-paper-200;
+  }
+  .btn-primary {
+    @apply bg-amber text-ink-950 font-display font-semibold px-4 py-2 rounded-md
+           hover:bg-amber-light transition-colors disabled:opacity-40 disabled:cursor-not-allowed;
+  }
+  .btn-secondary {
+    @apply bg-ink-800 border border-ink-600 text-paper-100 font-display font-medium px-4 py-2 rounded-md
+           hover:border-amber/50 transition-colors disabled:opacity-40 disabled:cursor-not-allowed;
+  }
+  .input-field {
+    @apply w-full bg-ink-800 border border-ink-600 rounded-md px-3 py-2 text-paper-100
+           placeholder:text-ink-600 focus:outline-none focus:border-amber/60 transition-colors;
+  }
+  .scanline-divider {
+    @apply h-px w-full bg-scanlines;
+  }
+}
